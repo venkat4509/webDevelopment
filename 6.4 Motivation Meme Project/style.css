@@ -1,0 +1,26 @@
+.backgroundcolour{
+    color: white;
+}
+
+h1{
+   
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+body{
+    background-color: black;
+}
+
+img{
+    border: 5px solid white;
+    width: 100%;   
+}
+
+div{
+    font-family: 'Libre Baskerville', serif;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    margin-top: 100px;
+}
